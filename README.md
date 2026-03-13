@@ -1,6 +1,5 @@
 # Capitaly -- Strategy-Based Board Game Simulation
 
-This project was developed as a hobby alongside an Object-Oriented
 Programming (OOP) course.\
 The goal was to create a text-based board game simulation where player
 behavior evolves depending on the algorithmic strategy they follow.
